@@ -1,4 +1,3 @@
-@ -0,0 +1,75 @@
 Required Notice: Copyright (c) 2026 Jinmo Kim (DGIST)
 
 # PolyForm Noncommercial License 1.0.0
