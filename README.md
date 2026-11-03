@@ -7,6 +7,7 @@ Analysis code related to Neuropixels recordings from Kim et al., (2026), Muscari
 
 ## Dataset
 The code uses dataset from Kim et al., (2026), which can be downloaded from Zenodo.org:
+https://doi.org/10.5281/zenodo.23724877
 
 ## Correspondence
 Jong-Cheol Rah, Korea Brain Research Institute, Daegu 41062, Republic of Korea (jcrah@kbri.re.kr)
